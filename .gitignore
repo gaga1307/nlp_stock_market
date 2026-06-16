@@ -2,3 +2,6 @@
 mlruns/
 mlflow.db
 datasets/
+models/
+.idea/
+results/
