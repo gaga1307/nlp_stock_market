@@ -2,6 +2,8 @@
 
 This repository contains the complete implementation of a thesis project analyzing the impact of public sentiment on stock market behavior for three major semiconductor companies: **NVIDIA (NVDA)**, **AMD**, and **Intel (INTC)**.
 
+Full documentation: [Documentation](https://github.com/gaga1307/nlp_stock_market/blob/main/diplomski.pdf)
+
 ---
 
 ## Research Overview
